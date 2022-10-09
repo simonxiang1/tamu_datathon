@@ -1,7 +1,7 @@
 import streamlit as st
 import tensorflow as tf
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib as plt
 
 #test
 tf.__version__
