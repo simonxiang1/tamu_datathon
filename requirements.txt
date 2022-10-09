@@ -3,5 +3,5 @@ keras
 tensorflow
 pillow
 pandas
-matplotlib.pyplot
+matplotlib
 
